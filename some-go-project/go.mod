@@ -1,3 +1,3 @@
 module github.com/golang-mixed-language-monorepo/some-go-project
 
-go 1.18
+go 1.19
